@@ -13,11 +13,11 @@ Papers about new AI weather models and theorectial developments in the AI weathe
 #AI downscaling
 Papers about the usage and development of AI downscaling methodologies to weather and climate data. Focus on downscaling to region-to-local (2km-10km) resolutions more detailed than ERA5 resolution. New methods and critical evalations and usages of existing methods are both welcome. Studies on uncertainity and ensemble methods are encouragfe
 
-#Convection-permitting climate models
-
 #UKCP18 use cases 
+Uses of UKCP18 for impact and scientific case studies, especially climate services. Use of UKCP18-Local at 2-5km resolution especially important.
 
 #climate indicies science
+Papers about measurement and evolution of climate indicies such as ENSO, IOD, ITCZ, etc. Obervations of and better historical measurements of indicies especially good, or new papers about teleconnections of indicies.
 
 #energy meteorology
 Papers on applications of weather/reanalysis data to energy systems/wind/solar power generation, on both historical and future timescales
