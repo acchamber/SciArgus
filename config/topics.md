@@ -1,26 +1,26 @@
-#Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
+#Weather forecasting improvements
+Papers about improvements to operational weather forecasting models - IFS, UM, GEFS, and similar. Improved parameterisations, dynamics solvers, resolution enhancement are all in scope, along with similar. Focus on improvments to surface metrics such as 2m temperature and 10m wind over upper-air or pressure. 
 
-#Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
+#seasonal forecasting improvements
+Papers about improvements to seasonal forecasting models especially models in the C3S ensemble. Both model improvements and pre/post-processing improvements are in scope, especially ensemble methods. Especially about improvements to seasonal forecasts in Africa or tropics. AI methods and models for seasonal forecasts are also in scope
 
-#Biodiversity Monitoring
-Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
+#seasonal forecast applications
+Papers about applications of seasonal forecasting to end-user use cases in sectoral applications - energy, heath, business, agriculture, policy etc. Focus on impact to end user and verified test cases over hypothetical
 
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
+#AI weather models and theory
+Papers about new AI weather models and theorectial developments in the AI weather forecasting space. Comparisons or advancements to AIFS, Gencast or Weathernext are encouraged. Papers on new model stuctures or analysis of model architecture improvements for AI weather forecasting are also good. Medium-range and seasonal forecasts extentions of existing models also encouraged. 
 
-#Conservation Science
-Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
+#AI downscaling
+Papers about the usage and development of AI downscaling methodologies to weather and climate data. Focus on downscaling to region-to-local (2km-10km) resolutions more detailed than ERA5 resolution. New methods and critical evalations and usages of existing methods are both welcome. Studies on uncertainity and ensemble methods are encouragfe
 
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
+#Convection-permitting climate models
 
-#Ecological Condition
-Papers discussing the concept of ecological condition and its quantification. This includes the introduction of new datasets, critical analyses of existing data, and applications of these datasets to novel questions at global or local scales (provided local datasets are used to generate new, scalable frameworks or approaches). We also welcome discussions on how ecological condition is operationalized and how it feeds into global agreements, such as the Global Biodiversity Framework, or efforts to quantify and commoditize biodiversity.
+#UKCP18 use cases 
 
-#Global Biodiversity Data
-Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
+#climate indicies science
 
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#energy meteorology
+Papers on applications of weather/reanalysis data to energy systems/wind/solar power generation, on both historical and future timescales
+
+#agricultural meteorology
+Papers on applications of weather/reanalysis data to crop yields and crop modelling, on both historical and future timescales. Focus on country-scale impacts and national vertification over long timescales over smaller single-farm studies. 
